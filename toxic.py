@@ -12,7 +12,7 @@ class Perspectiveapi:
     :param1: text 要检测的文本
     :return: JSON 检测结果
     """
-    API_KEY = 'AIzaSyAbs_09I-ADpQlhZRZrFY71_mgLZkP8d20'
+    API_KEY = 'XXXXXXXXXXXXX'
 
     client = discovery.build(
       "commentanalyzer",
